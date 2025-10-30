@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Monitor",
+        "isExternal": true,
+        "usage": [
+            "display of images",
+            "display of text",
+            "display of videos"
+        ]
+    },
+    {
+        "name": "Motherboard",
+        "isExternal": false,
+        "usage": [
+            "connects other hardware components",
+            "supports all other hardware components"
+        ]
+    },
+    {
+        "name": "CPU",
+        "isExternal": false,
+        "usage": [
+            "executing instructions",
+            "performing calculations"
+        ]
+    },
+    {
+        "name": "RAM",
+        "isExternal": false,
+        "usage": [
+            "storing temporary data"
+        ]
+    }
+]

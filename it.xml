@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<it>
+    <hardware>
+        <name type = "external">Monitor</name>
+        <name type = "internal">Motherboard</name>
+        <name type = "internal">CPU</name>
+    </hardware>
+    <software>
+        <name accesibility = "public">Open Source Software</name>
+        <name accesibility = "public">Web Browers</name>
+        <name accesibility = "public">Application software(APP)</name>
+    </software>
+    <networking>
+        <name shortcut = "LAN">Local Area Network</name>
+        <name shortcut = "PAN">Personal Area Network</name>
+        <name shortcut = "WAN">Wide Area Network</name>
+    </networking>
+    <artificial_intelligence>
+        <name strenght = "weak">Narrow AI</name>
+        <name strenght = "very strong">Artificial general intelligence</name>
+        <name strenght = "normal">Reactive machines</name>
+    </artificial_intelligence>
+</it>
